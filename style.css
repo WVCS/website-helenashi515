@@ -1,3 +1,27 @@
-body {
+nav {
+  list-style-type: none;
+  background-color: #04102E;
+  position: fixed;
+  color: white; 
+  font-size: 60px;
+  text-align: center; 
+  font-family: "Lucida Console", "Courier New", monospace;
+  top: 0;
+  width: 100vw;
+  left: 0;
+  padding: 8px
+}
 
+li {
+  display: inline;
+  padding: 40px;
+}
+
+li:hover {
+  background-color: gold;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
