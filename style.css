@@ -4,7 +4,7 @@ nav {
   position: fixed;
   color: white; 
   font-size: 60px;
-  text-align: right; 
+  text-align: center; 
   font-family: "Lucida Console", "Courier New", monospace;
   top: 0;
   width: 100vw;
@@ -19,7 +19,7 @@ li {
 }
 
 li:hover {
-  background-color: gold;
+  background-color: #96031A;
   padding: 5px;
 }
 
