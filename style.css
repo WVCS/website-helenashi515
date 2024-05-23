@@ -15,11 +15,12 @@ nav {
 li {
   display: inline;
   padding: 40px;
-  padding: 5px
+  
 }
 
 li:hover {
   background-color: gold;
+  padding: 5px;
 }
 
 a {
